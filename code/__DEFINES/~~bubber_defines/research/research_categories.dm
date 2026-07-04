@@ -1,5 +1,5 @@
-// Access Helpers
-#define ACCESS_LZGAS 9512
+//I'm tired. This is defines for mech fabs.
+#define RND_SUBCATEGORY_MECHFAB_CYBORG_MODULES_RESEARCH "/Research Cyborgs"
 
 // Colonial Marine Resequencer Categories
 #define RND_CATEGORY_CMR_APPAREL "Apparel/Clothing"

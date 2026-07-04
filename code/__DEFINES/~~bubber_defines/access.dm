@@ -6,3 +6,6 @@
 #define REGION_ACCESS_LZGAS list( \
 	ACCESS_LZGAS, \
 )
+
+// Access Helpers
+#define ACCESS_LZGAS 9512
