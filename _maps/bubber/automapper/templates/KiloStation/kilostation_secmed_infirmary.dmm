@@ -43,11 +43,6 @@
 /turf/open/floor/plating,
 /area/station/security/medical)
 "k" = (
-/obj/machinery/door/window/brigdoor/right/directional/south{
-	req_access = list("security");
-	name = "Security Infirmary";
-	dir = 1
-	},
 /obj/machinery/door/firedoor/border_only{
 	dir = 1
 	},
@@ -58,6 +53,10 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/sign/poster/official/cleanliness/directional/east,
+/obj/machinery/door/window/brigdoor/right/directional/north{
+	name = "Security Infirmary";
+	req_access = list("security")
+	},
 /turf/open/floor/iron/white,
 /area/station/security/medical)
 "m" = (

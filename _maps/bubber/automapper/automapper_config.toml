@@ -13,7 +13,7 @@
 # Biodome Security Infirmary
 [templates.biodome_sec_infirmary]
 map_files = ["biodome_secmed_infirmary.dmm"]
-directory = "_maps/bubber/automapper/templates/biodome/"
+directory = "_maps/bubber/automapper/templates/Biodome/"
 required_map = "biodome.dmm"
 coordinates = [149, 87, 2]
 trait_name = "Station"

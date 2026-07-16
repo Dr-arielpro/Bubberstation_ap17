@@ -12,13 +12,12 @@
 /obj/effect/turf_decal/trimline/blue/filled/warning{
 	dir = 4
 	},
-/obj/machinery/door/window/brigdoor/right/directional/south{
-	req_access = list("security");
-	name = "Security Infirmary";
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/door/window/brigdoor/right/directional/east{
+	req_access = list("security");
+	name = "Security Infirmary"
+	},
 /turf/open/floor/iron/white,
 /area/station/security/medical)
 "e" = (

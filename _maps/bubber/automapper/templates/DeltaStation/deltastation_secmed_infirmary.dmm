@@ -5,7 +5,6 @@
 "b" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/cable,
 /turf/open/floor/iron/white,
 /area/station/security/medical)
 "e" = (
