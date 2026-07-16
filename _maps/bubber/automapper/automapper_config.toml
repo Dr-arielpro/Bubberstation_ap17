@@ -752,7 +752,7 @@ trait_name = "Station"
 map_files = ["tramstation_secmed_infirmary.dmm"]
 directory = "_maps/bubber/automapper/templates/tramstation/"
 required_map = "tramstation.dmm"
-coordinates = [55, 146, 2]
+coordinates = [55, 147, 2]
 trait_name = "Station"
 
 # VOIDRAPTOR MAP EDITS
