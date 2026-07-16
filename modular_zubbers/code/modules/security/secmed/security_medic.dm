@@ -151,7 +151,7 @@ by the automapper.
 	new /obj/item/storage/medkit/toxin(src)
 	new /obj/item/storage/medkit/o2(src)
 	//Basic robotic repair kit. Worse than a toolbox in every way possible, but at least it gives you something to use for synths.
-	new /obj/item/storage/medkit/robotic_repair/stocked
+	new /obj/item/storage/medkit/robotic_repair/stocked(src)
 	//Moving the clothes meant for restraining patients into the locker, instead of having it be map dependent.
 	new /obj/item/clothing/suit/jacket/straight_jacket(src)
 	new /obj/item/clothing/mask/muzzle(src)
